@@ -1,0 +1,99 @@
+# %% [markdown]
+# <div style="text-align:left;font-size:2em"><span style="font-weight:bolder;font-size:1.25em">SP2273 | Learning Portfolio</span><br><br><span style="font-weight:bold;color:darkred">Using Jupyter (Need)</span></div>
+
+# %% [markdown]
+# # What to expect in this chapter
+
+# %% [markdown]
+# # 1 Getting ready
+
+# %%
+print ("helloworld") 
+print ("UWU")
+
+# %% [markdown]
+# # 2 Getting started with Jupyter
+
+# %% [markdown]
+# ## 2.1 It is all about running cells
+
+# %% [markdown]
+# ## 2.2 A traditional startz
+
+# %%
+print ('hello '*10)
+
+# %% [markdown]
+# # 3 All about Markdown
+
+# %% [markdown]
+# ## 3.1 Rendering Markdown cells
+
+# %% [markdown]
+# the ships hung in the sky in much the same way that bricks don’t.
+
+# %% [markdown]
+# ## 3.2 Some basic syntax
+
+# %% [markdown]
+# The ship *hung in the sky* in much the same way that **bricks don't.** <sup>1<sup><sub>QUOTE</sub>
+
+# %% [markdown]
+# ## 3.5 Links
+
+# %% [markdown]
+# ![]{https://static.wikia.nocookie.net/sillyman/images/3/3c/Kermit_the_Frog.png/revision/latest?cb=20241024094927}
+
+# %% [markdown]
+# ## 3.6 Images
+
+# %% [markdown]
+# ![image.png](attachment:image.png)
+
+# %% [markdown]
+# ## 3.7 Tables
+
+# %% [markdown]
+# | A    |  B   |    C |
+# | :--- | :--: | ---: |
+# | a1   |  b1  |   c1 |
+# | a2   |  b2  |   c2 |
+# | a3   |  b3  |   c3 |
+
+# %% [markdown]
+# ## 3.8 Lists
+
+# %% [markdown]
+# - master yoda
+#     - luke skywalker
+# - anakin skywalker
+
+# %% [markdown]
+# ## 3.9 Equations
+
+# %% [markdown]
+# $$
+# x = \dfrac{-b \pm \sqrt{b^2-4ac}}{2a}
+# $$
+
+# %% [markdown]
+# $\dfrac{y}{x}$.  $x_{a}$, $x^{(y+z)}$, 	$\sqrt{a+b+c}$, $\sum_{n=1}^{n=\infty} x_n$, 	$\int_{x=1}^{x=\infty} f(x)dx$, 	a \ne b, 	$a \lt b$, 	$a \leq b$, 	$a \gt b$, 	$a \geq b$, $\alpha, \beta, \gamma, \pi, \lambda$	
+
+# %% [markdown]
+# ## Footnotes
+
+# %% [markdown]
+# You and I will have problems if you do not know about The Hitchhiker’s Guide to the Galaxy.↩︎
+# 
+# that you are using Windows.↩︎
+# 
+# especially with doubly annoying software like Word↩︎
+# 
+# Using a 
+#  engine called MathJax↩︎
+
+# %%
+print('hello'*10)
+
+
+
